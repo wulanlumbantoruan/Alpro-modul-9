@@ -184,3 +184,5 @@ if __name__ == "__main__":
     root = tk.Tk()
     app = StudentProductivityToolkit(root)
     root.mainloop()
+
+print("trims")
